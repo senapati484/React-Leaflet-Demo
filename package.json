@@ -1,0 +1,23 @@
+{
+  "name": "react-leaflet-demo",
+  "version": "1.0.0",
+  "description": "React Leaflet Map",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "React-Leaflet-Demo"
+  },
+  "keywords": [
+    "react-scripts",
+    "start"
+  ],
+  "author": "Sayan Senapati",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  }
+}
